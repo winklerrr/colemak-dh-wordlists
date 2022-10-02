@@ -14,5 +14,10 @@ The wordlists and screenshots are taken from [Colemak Club][2].
 1. Save as custom word list for easier loading next time
 1. Enjoy!
 
+## Pro Tip
+
+Sign the [petition][3] to get Colemak by default on Windows!
+
 [1]: https://monkeytype.com/
 [2]: https://gnusenpai.net/colemakclub/
+[3]: https://chng.it/nkBxhbFB7h
