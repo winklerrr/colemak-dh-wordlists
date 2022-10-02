@@ -2,7 +2,7 @@
 
 Custom wordlists for a Colemak DH level-based training on [Monkeytype][1]!
 
-The wordlists and screenshots are taken from [Colemak Academy][2].
+The wordlists and screenshots are taken from [Colemak Club][2].
 
 ## Usage
 
@@ -15,4 +15,4 @@ The wordlists and screenshots are taken from [Colemak Academy][2].
 1. Enjoy!
 
 [1]: https://monkeytype.com/
-[2]: https://colemak.academy/
+[2]: https://gnusenpai.net/colemakclub/
