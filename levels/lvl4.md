@@ -14,5 +14,5 @@ all up also help online top people list health last should post please support f
 
 ---
 
-[![btn-prev](../imgs/lvl-previous.png)](./lvl4.md)
-[![btn-next](../imgs/lvl-next.png)](./lvl6.md)
+[![btn-prev](../imgs/lvl-previous.png)](./lvl3.md)
+[![btn-next](../imgs/lvl-next.png)](./lvl5.md)
