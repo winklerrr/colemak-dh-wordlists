@@ -14,5 +14,5 @@ k have can search contact services click like service price over products music 
 
 ---
 
-[![btn-prev](../imgs/lvl-previous.png)](./lvl5.md)
-[![btn-next](../imgs/lvl-next.png)](./lvl7.md)
+[![btn-prev](../imgs/lvl-previous.png)](./lvl4.md)
+[![btn-next](../imgs/lvl-next.png)](./lvl6.md)
