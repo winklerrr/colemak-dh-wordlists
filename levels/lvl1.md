@@ -2,7 +2,7 @@
 
 These words only contain the characters: `arst neio`
 
-![keyboard][../imgs/lvl1.png]
+![keyboard](../imgs/lvl1.png)
 
 ## Wordlist
 
