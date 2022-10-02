@@ -1,6 +1,6 @@
 # Level 4
 
-These words only contain the characters: `arst neio dh wfuy pl`
+These words only contain the characters: `arst neio dh wfuy plgm`
 
 ![keyboard](../imgs/lvl4.png)
 
